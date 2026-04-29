@@ -102,8 +102,8 @@ Integrated epidemiological and demographic databases across Medellín's communes
 
 | Credential | Institution | Year |
 |-----------|-------------|------|
-| B.Sc. in Statistics | National University of Colombia | 2018 – Present |
-| Cloud Computing Bootcamp | BeTek by Makaia | 2026 – Present |
+| B.Sc. in Statistics | National University of Colombia |
+| Cloud Computing Bootcamp | BeTek by Makaia |
 
 ### Certifications
 
