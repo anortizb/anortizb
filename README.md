@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0f3460&height=200&section=header&text=Hi% there,%I'm%Andrés%20Ortiz%20Bedoya&fontSize=42&fontColor=58a6ff&fontAlignY=38&desc=Statistician%20·%20Data%20Scientist%20·%20Data%20Analyst&descColor=8b949e&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0f3460&height=200&section=header&text=Hi%20there,%20I'm%20Andrés%20Ortiz%20Bedoya&fontSize=42&fontColor=58a6ff&fontAlignY=38&desc=Statistician%20·%20Data%20Scientist%20·%20Data%20Analyst&descColor=8b949e&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-ortiz-bedoya)
