@@ -65,12 +65,15 @@ Statistician with a strong foundation in **data science**, **machine learning**,
 
 | Domain | Techniques |
 |--------|-----------|
-| **Statistical Modeling** | GLMs, hypothesis testing, Bayesian inference |
+| **Statistical Modeling** | GLMs, hypothesis testing, Bayesian inference, simulation, experimental design |
 | **Machine Learning** | Supervised/unsupervised learning, model selection, cross-validation |
-| **Deep Learning** | RNNs, LSTMs, Transformers for time series |
-| **Time Series Analysis** | ARIMA, SARIMA, deep learning forecasting |
+| **Deep Learning** | RNNs, LSTMs |
+| **Time Series Analysis** | ARIMA, SARIMA, ETS, forecasting, deep learning for time series |
 | **Multivariate Analysis** | PCA, factor analysis, clustering |
 | **Spatial Statistics** | Spatial autocorrelation, kriging, hotspot analysis |
+| **Data Engineering** | ETL pipelines, data cleaning, validation, documentation |
+| **Business Intelligence** | KPI design, dashboards, executive reporting |
+| **Data Storytelling** | Communication with stakeholders, analytical narratives, business-oriented insights |
 
 ---
 
