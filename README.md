@@ -10,7 +10,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=00F5D4&center=true&vCenter=true&width=650&lines=Statistical+Thinking+in+Action;Machine+Learning+%2B+Data+Science;Building+Insights+from+Data;Medell%C3%ADn+%7C+Colombia" />
 </div>
 
----
+
 
 ## About Me
 
@@ -22,7 +22,7 @@ Statistician with a strong foundation in **data science**, **machine learning**,
 - Interests: predictive modeling, environmental data analysis, geospatial statistics
 - Analyzed domains ranging from geochemical sediments to dengue outbreak dynamics
 
----
+
 
 ## Tech Stack
 
@@ -63,7 +63,7 @@ Statistician with a strong foundation in **data science**, **machine learning**,
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </div>
 
----
+
 
 <div align="center">
 
@@ -83,7 +83,7 @@ Statistician with a strong foundation in **data science**, **machine learning**,
 
 </div>
 
----
+
 
 ## Featured Projects
 
@@ -96,7 +96,7 @@ Statistician with a strong foundation in **data science**, **machine learning**,
 
 Preprocessed and analyzed 60+ geochemical samples maintaining full dataset integrity. Applied missing data imputation techniques reducing gaps by 30%. Performed PCA dimensionality reduction capturing ~40% of total variance. Conducted spatial analysis to identify anomalous concentration zones.
 
----
+
 
 ### Dengue Incidence Analysis — Medellín
 *Academic Data Analyst · National University of Colombia*
@@ -107,7 +107,7 @@ Preprocessed and analyzed 60+ geochemical samples maintaining full dataset integ
 
 Integrated epidemiological and demographic databases across Medellín's communes. Applied spatial statistical techniques (Moran's I, LISA) to identify statistically significant high-incidence clusters. Generated geospatial visualizations revealing disease propagation dynamics.
 
----
+
 
 ## Education
 
@@ -119,7 +119,7 @@ Integrated epidemiological and demographic databases across Medellín's communes
 
 </div>
 
----
+
 
 ## Certifications & Additional Training
 
@@ -128,7 +128,7 @@ Integrated epidemiological and demographic databases across Medellín's communes
 | Cloud Computing Foundations | BeTek by Makaia | 2026 |
 | Time Series with Deep Learning | National University of Colombia | 2025 |
 
----
+
 
 ## GitHub Stats
 
@@ -145,14 +145,14 @@ Integrated epidemiological and demographic databases across Medellín's communes
 
 </div>
 
----
+
 
 ## Languages
 
 ![Spanish](https://img.shields.io/badge/Spanish-Native-2ea44f?style=flat-square)
 ![English](https://img.shields.io/badge/English-B2%20Upper%20Intermediate-0A66C2?style=flat-square)
 
----
+
 
 <div align="center">
 
