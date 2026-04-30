@@ -109,20 +109,19 @@ Integrated epidemiological and demographic databases across Medellín's communes
 
 ---
 
-## Education & Certifications
+## Education
 
-| Credential | Institution |
-|-----------|-------------|
-| B.Sc. in Statistics | National University of Colombia |
-| Cloud Computing Bootcamp | BeTek by Makaia |
+| Degree | Institution | Status / Year |
+|---|---|---|
+| B.Sc. in Statistics and Data Science | National University of Colombia | In progress |
 
-### Certifications
 
-[![AWS](https://img.shields.io/badge/AWS%20Cloud%20Practitioner%20Essentials-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](./aws-cloud-practitioner-essentials.pdf) **2026**
+## Certifications & Additional Training
 
-[![Deep Learning](https://img.shields.io/badge/Time%20Series%20with%20Deep%20Learning%20·%2040hrs-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](./certificado%20Deep%20Learning.pdf) **2025**
-
-[![Cloud](https://img.shields.io/badge/Cloud%20Fundamentals-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](./Certificado%20Nube.pdf) **2026**
+| Certification / Course | Institution | Year |
+|---|---|---|
+| Cloud Computing Foundations | BeTek by Makaia | 2026 |
+| Time Series with Deep Learning | National University of Colombia | 2025 |
 
 ---
 
