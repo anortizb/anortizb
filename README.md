@@ -107,18 +107,15 @@ Preprocessed and analyzed 60+ geochemical samples maintaining full dataset integ
 
 Integrated epidemiological and demographic databases across Medellín's communes. Applied spatial statistical techniques (Moran's I, LISA) to identify statistically significant high-incidence clusters. Generated geospatial visualizations revealing disease propagation dynamics.
 
-
+<div align="center">
 
 ## Education
 
-<div align="center">
+
 
 | Degree | Institution | Status / Year |
 |---|---|---|
 | B.Sc. in Statistics and Data Science | National University of Colombia | In progress |
-
-</div>
-
 
 
 ## Certifications & Additional Training
@@ -128,7 +125,7 @@ Integrated epidemiological and demographic databases across Medellín's communes
 | Cloud Computing Foundations | BeTek by Makaia | 2026 |
 | Time Series with Deep Learning | National University of Colombia | 2025 |
 
-
+</div>
 
 ## GitHub Stats
 
