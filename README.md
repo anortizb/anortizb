@@ -111,10 +111,15 @@ Integrated epidemiological and demographic databases across Medellín's communes
 
 ## Education
 
+<div align="center">
+
 | Degree | Institution | Status / Year |
 |---|---|---|
 | B.Sc. in Statistics and Data Science | National University of Colombia | In progress |
 
+</div>
+
+---
 
 ## Certifications & Additional Training
 
