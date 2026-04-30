@@ -65,6 +65,8 @@ Statistician with a strong foundation in **data science**, **machine learning**,
 
 ---
 
+<div align="center">
+
 ## Domains of Expertise
 
 | Domain | Techniques |
@@ -78,6 +80,8 @@ Statistician with a strong foundation in **data science**, **machine learning**,
 | **Data Engineering** | ETL pipelines, data cleaning, validation, documentation |
 | **Business Intelligence** | KPI design, dashboards, executive reporting |
 | **Data Storytelling** | Communication with stakeholders, analytical narratives, business-oriented insights |
+
+</div>
 
 ---
 
