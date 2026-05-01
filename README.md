@@ -3,10 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0f3460&height=200&section=header&text=Hi%20there,%20I'm%20Andrés%20Ortiz%20Bedoya&fontSize=42&fontColor=58a6ff&fontAlignY=38&desc=Statistician%20·%20Data%20Scientist%20·%20Data%20Analyst&descColor=8b949e&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-ortiz-bedoya)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andresortizbedoya20@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anortizb)
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=00F5D4&center=true&vCenter=true&width=650&lines=Statistical+Thinking+in+Action;Machine+Learning+%2B+Data+Science;Building+Insights+from+Data;Medell%C3%ADn+%7C+Colombia" />
 </div>
 
