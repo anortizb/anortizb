@@ -128,7 +128,7 @@ Integrated epidemiological and demographic databases across Medellín's communes
 
 | Certification / Course | Institution | Year |
 |---|---|---|
-| Cloud Computing Foundations | BeTek by Makaia | 2026 |
+| Cloud Analyst and Architect | BeTek by Makaia | 2026 |
 | Time Series with Deep Learning | National University of Colombia | 2025 |
 
 </div>
