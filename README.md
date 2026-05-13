@@ -2,32 +2,32 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0f3460&height=200&section=header&text=Hi%20there,%20I'm%20Andrés%20Ortiz%20Bedoya&fontSize=42&fontColor=58a6ff&fontAlignY=38&desc=Statistician%20·%20Data%20Scientist%20·%20Data%20Analyst&descColor=8b949e&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=00F5D4&center=true&vCenter=true&width=650&lines=Statistical+Thinking+in+Action;Machine+Learning+%2B+Data+Science;Building+Insights+from+Data;Cloud+Architecture+%2B+MLOps" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=00F5D4&center=true&vCenter=true&width=650&lines=Statistical+Thinking+in+Action;Machine+Learning+%2B+Data+Science;Building+Insights+from+Data" />
 </div>
 
 ---
 
-<div align="center">  
+<div align="center">
 
 ## About Me
 
 </div>
 
-Statistician with a strong foundation in **data science**, **machine learning**, and **cloud computing**. I work at the intersection of statistical rigor and applied machine learning — from geochemical spatial analysis to epidemiological modeling and time series forecasting.
+Statistician in my final semester at the National University of Colombia, specializing in **data science**, **machine learning**, and **cloud computing**. I build end-to-end analytical solutions — from statistical modeling and spatial analysis to cloud-based pipelines — with a focus on delivering results that are both technically rigorous and actionable.
 
-- Currently working on spatial statistics and time series forecasting projects
-- Learning advanced deep learning architectures and AWS cloud services
-- Looking to collaborate on data science projects with real-world impact
-- Interests: predictive modeling, environmental data analysis, geospatial statistics
-- Analyzed domains ranging from geochemical sediments to dengue outbreak dynamics
+My work spans environmental statistics, epidemiological modeling, and time series forecasting. I'm currently deepening my expertise in deep learning architectures, AWS cloud services, and MLOps practices.
+
+- Open to roles in data science, statistical consulting, and data engineering
+- Strong communicator of technical results to non-technical stakeholders
+- Domains: geospatial analysis, predictive modeling, multivariate statistics, cloud infrastructure
 
 ---
 
 <div align="center">
 
 ## Tech Stack
-  
+
 ### Languages & Core Libraries
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -52,15 +52,23 @@ Statistician with a strong foundation in **data science**, **machine learning**,
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 ![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=python&logoColor=white)
 
-### Cloud, BI & Tooling
+### Cloud & Infrastructure
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### BI, Tooling & Version Control
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 </div>
 
 ---
@@ -73,11 +81,12 @@ Statistician with a strong foundation in **data science**, **machine learning**,
 |--------|-----------|
 | **Statistical Modeling** | GLMs, hypothesis testing, Bayesian inference, simulation, experimental design |
 | **Machine Learning** | Supervised/unsupervised learning, model selection, cross-validation |
-| **Deep Learning** | RNNs, LSTMs |
-| **Time Series Analysis** | ARIMA, SARIMA, ETS, forecasting, deep learning for time series |
+| **Deep Learning** | RNNs, LSTMs, deep learning for time series |
+| **Time Series Analysis** | ARIMA, SARIMA, ETS, forecasting, deep learning architectures |
 | **Multivariate Analysis** | PCA, factor analysis, clustering |
-| **Spatial Statistics** | Spatial autocorrelation, kriging, hotspot analysis |
-| **Data Engineering** | ETL pipelines, data cleaning, validation, documentation |
+| **Spatial Statistics** | Spatial autocorrelation, Moran's I, LISA, kriging, hotspot analysis |
+| **Cloud & DevOps** | Scalable cloud architectures, CI/CD pipelines, IaC with Terraform, containerization |
+| **Data Engineering** | ETL pipelines, data cleaning, missing data imputation, validation, documentation |
 | **Business Intelligence** | KPI design, dashboards, executive reporting |
 | **Data Storytelling** | Communication with stakeholders, analytical narratives, business-oriented insights |
 
@@ -92,24 +101,24 @@ Statistician with a strong foundation in **data science**, **machine learning**,
 </div>
 
 ### Geochemical Data Analysis — Atrato River Delta
-*Statistical Consultant · National University of Colombia, Geosciences Department*
+*Statistical Consultant · National University of Colombia, Geosciences Department · Apr 2025 – Jun 2025*
 
 ![Status](https://img.shields.io/badge/Status-Completed-2ea44f?style=flat-square)
 ![Domain](https://img.shields.io/badge/Domain-Environmental%20Statistics-009639?style=flat-square)
 ![Tools](https://img.shields.io/badge/Tools-Python%20·%20R%20·%20GeoPandas-3776AB?style=flat-square)
 
-Preprocessed and analyzed 60+ geochemical samples maintaining full dataset integrity. Applied missing data imputation techniques reducing gaps by 30%. Performed PCA dimensionality reduction capturing ~40% of total variance. Conducted spatial analysis to identify anomalous concentration zones.
+Consolidated and cleaned databases from 60+ geochemical samples, maintaining full dataset integrity. Applied missing data imputation techniques, reducing gaps by 30%. Performed PCA dimensionality reduction capturing ~40% of total variance. Conducted spatial analysis to identify anomalous concentration zones and support environmental interpretation of the study area.
 
-
+---
 
 ### Dengue Incidence Analysis — Medellín
-*Academic Data Analyst · National University of Colombia*
+*Academic Data Analyst · National University of Colombia · Feb 2024 – May 2024*
 
 ![Status](https://img.shields.io/badge/Status-Completed-2ea44f?style=flat-square)
 ![Domain](https://img.shields.io/badge/Domain-Epidemiology-c0392b?style=flat-square)
 ![Tools](https://img.shields.io/badge/Tools-R%20·%20QGIS%20·%20Spatial%20Stats-276DC3?style=flat-square)
 
-Integrated epidemiological and demographic databases across Medellín's communes. Applied spatial statistical techniques (Moran's I, LISA) to identify statistically significant high-incidence clusters. Generated geospatial visualizations revealing disease propagation dynamics.
+Integrated epidemiological and demographic databases across Medellín's districts. Applied spatial statistical techniques (Moran's I, LISA) to identify statistically significant high-incidence clusters. Generated geospatial visualizations revealing disease propagation dynamics.
 
 ---
 
@@ -117,19 +126,17 @@ Integrated epidemiological and demographic databases across Medellín's communes
 
 ## Education
 
-
-
-| Degree | Institution | Status / Year |
+| Degree | Institution | Status |
 |---|---|---|
-| B.Sc. in Statistics and Data Science | National University of Colombia | In progress |
-
+| B.Sc. in Statistics | National University of Colombia | Final semester |
 
 ### Certifications & Additional Training
 
 | Certification / Course | Institution | Year |
 |---|---|---|
 | Cloud Solutions Analyst and Architect | BeTek by Makaia | 2026 |
-| Time Series with Deep Learning | National University of Colombia | 2025 |
+| Specialization Coursework: AI and Analytics | Faculty of Mines, National University of Colombia | 2025 – Present |
+| Extension Course: Time Series with Deep Learning | Faculty of Mines, National University of Colombia | 2025 |
 
 </div>
 
@@ -147,7 +154,6 @@ Integrated epidemiological and demographic databases across Medellín's communes
 <div align="center">
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=anortizb&theme=github-dark-blue&hide_border=true)
-
 
 ## Languages
 
