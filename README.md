@@ -122,7 +122,7 @@ Integrated epidemiological and demographic databases across Medellín's district
 
 | Degree | Institution | Status |
 |---|---|---|
-| B.Sc. in Statistics | National University of Colombia | Final semester |
+| B.Sc. in Statistics and Data Science | National University of Colombia | Final semester |
 
 ### Certifications & Additional Training
 
