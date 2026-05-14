@@ -138,16 +138,18 @@ Integrated epidemiological and demographic databases across Medellín's district
 
 <div align="center">
 
-## GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anortizb&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anortizb&layout=compact&theme=github_dark&hide_border=true"/>
+## GitHub Analytics
+
+<img height="180em" src = "https://github-readme-stats.shion.dev/api?username=anortizb&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src = "https://github-readme-stats.shion.dev/api/top-langs/?username=anortizb&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+
+![Streak](https://streak-stats.demolab.com/?user=anortizb&theme=github-dark-blue&hide_border=true)
 
 </div>
 
 <div align="center">
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=anortizb&theme=github-dark-blue&hide_border=true)
 
 ## Languages
 
