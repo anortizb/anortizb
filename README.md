@@ -14,7 +14,7 @@
 
 </div>
 
-Statistician in my final semester at the National University of Colombia, specializing in **data science**, **machine learning**, and **cloud computing**. I build end-to-end analytical solutions — from statistical modeling and spatial analysis to cloud-based pipelines — with a focus on delivering results that are both technically rigorous and actionable.
+Statistician in my final semester at the National University of Colombia, specializing in **data science**, **machine learning**, and **cloud computing**. I build end-to-end analytical solutions — from statistical modeling and analysis to cloud-based pipelines — with a focus on delivering results that are both technically rigorous and actionable.
 
 My work spans environmental statistics, epidemiological modeling, and time series forecasting. I'm currently deepening my expertise in deep learning architectures, AWS cloud services, and MLOps practices.
 
